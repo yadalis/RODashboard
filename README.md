@@ -74,3 +74,4 @@ from the firewall situations.
   Note: This requires node.js pre-installed.
 
 
+git remote add origin https://github.com/yadalis/RODashboard.git
