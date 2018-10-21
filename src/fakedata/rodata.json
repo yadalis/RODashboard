@@ -1,0 +1,23 @@
+{
+    "actionrequired_ro":
+    {
+        "repairOrderNumber":98989
+        ,"customerName" : "Trans AMy z"
+        ,"actionRequiredInternalROInfo":
+        {
+            "branchName" : "MHC Atlanta - 24"
+            ,"branchLocation" : "Atlanta, GA"
+        }
+    }
+    ,
+    "inprocess_ro":
+    {
+        "repairOrderNumber":12345
+        ,"customerName" : "Fed Ex c"
+        ,"inProcessInternalROInfo":
+        {
+            "unitNumber" : "q12435435"
+            ,"unitVehicleIdNumber" : "1NXZAFED54FHHBDCGHH"
+        }
+    }
+}
