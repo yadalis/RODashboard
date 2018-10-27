@@ -73,5 +73,6 @@ from the firewall situations.
 
   Note: This requires node.js pre-installed.
 
-
+execute npm install -g yarn
 git remote add origin https://github.com/yadalis/RODashboard.git
+git remote -v -  to check the git repo name
